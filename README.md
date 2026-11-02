@@ -1,0 +1,1 @@
+# kerberos-linux-mssql
