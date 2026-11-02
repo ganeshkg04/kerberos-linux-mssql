@@ -1,0 +1,3 @@
+# Append to /etc/hosts when the SQL Server IP has no reverse DNS
+# (e.g. a NAT / VIP address). The hostname must match the SPN.
+10.0.5.20   sqlhost01.corp.local   sqlhost01
